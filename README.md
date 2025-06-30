@@ -88,6 +88,10 @@ Use Case Diagrams visually represent system functionality by showing how differe
 
 ### Booking Management System Use Case Diagram
 
+![Use Case Diagram](alx-booking-uc.png)
+
+_Note: Diagram created using [Draw.io](https://draw.io) and exported as `alx-booking-uc.png`._
+
 Actors:
 
 - User
